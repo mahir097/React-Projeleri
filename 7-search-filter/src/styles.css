@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: #7d7070;
+}
+/* Ana bileşenin stilini belirledik */
+
+.container {
+  text-align: center; /* Bütün içeriği merkezi hizalama */
+  margin-top: 20px; /* Üstten 20 piksel boşluk */
+  height: 100vh; /* Sayfanın tamamını kaplaması için yükseklik 100vh olarak ayarlandı */
+}
+
+/* Arama kutusunun stilini belirledik */
+
+.search input {
+  padding: 8px; /* Arama kutusunun içerisinde içerik ile kenar arasındaki boşluk */
+  border: 1px solid #ccc; /* Arama kutusunun kenarlığı */
+  border-radius: 4px; /* Kenar köşelerini yuvarlama */
+  width: 300px; /* Arama kutusunun genişliği */
+}
+
+/* Kitap kartlarının stilini belirledik */
+
+.content {
+  display: flex; /* Kitap kartlarını yatay düzende hizalama */
+  flex-wrap: wrap; /* Yatay hizalamada kartlar sığmadığında alt satıra geçmelerini sağlama */
+  justify-content: center; /* Kartları yatayda ortalamak için kullanılır */
+}
+
+.card {
+  width: 200px; /* Kartların genişliği */
+  margin: 10px; /* Kartlar arasında 10 piksel boşluk */
+  border: 1px solid #ccc; /* Kartların kenarlığı */
+  border-radius: 5px; /* Kenar köşelerini yuvarlama */
+  padding: 10px; /* Kart içeriğinden kart kenarlarına iç boşluk */
+  display: inline-block; /* Kartları yan yana getirmek için inline-block özelliğini ekliyoruz */
+}
+.card:hover {
+  box-shadow: 0 0 11px rgba(255, 255, 255, 0.2); /* Kartın üzerine gelindiğinde gölgelendirme efekti */
+  cursor: pointer; /* Kartın üzerine gelindiğinde imleç şeklini değiştirme */
+}
+
+.card-image img {
+  width: 100%; /* Kart resimlerini kartın genişliğiyle örtüşecek şekilde ayarlama */
+  height: 250px; /* Resim orantılarını koruyarak boyutları otomatik ayarlama */
+}
+
+.card-title {
+  margin-top: 10px; /* Kart başlığının üstündeki boşluk */
+  font-weight: bold; /* Kalın yazı stili */
+}
