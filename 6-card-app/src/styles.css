@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: #1d55cf;
+}
+/* CSS kodu "Card" bileşeni için stilleri tanımlar. */
+.App {
+  /* Uygulamanın genel stilini tanımlar. */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 100vh;
+}
+
+.card {
+  /* Bir kartı temsil eden genel stil. */
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  padding: 10px;
+  background-color: #b3d3d5;
+  overflow: hidden; /* Kart içeriğinin taşmalarını önlemek için içeriği gizleyin */
+}
+
+.card-image {
+  /* Kartın içindeki resmin stilini tanımlar. */
+  display: flex;
+  justify-content: center;
+}
+
+.card-image img {
+  /* Resmin boyutunu ve sınırlarını ayarlar. */
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.card-title {
+  /* Kart başlığının (karakter adı) stilini tanımlar. */
+  text-align: center;
+  margin-top: 10px;
+}
+
+.card-content {
+  /* Daha fazla bilgi gösterildiğinde kart içeriğinin (hakkında) stilini tanımlar. */
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #164a64;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.card-content p {
+  /* Kart içeriğindeki paragraf stilini düzenler. */
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.card-btn {
+  /* Kartın düğme bölümünün stilini ayarlar. */
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.card-btn button {
+  /* Kartın "Daha Fazla" düğmesinin stilini tanımlar. */
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.card-btn button:hover {
+  /* Düğmeye fare üzerine gelindiğinde stilini değiştirir. */
+  background-color: #0056b3;
+}
