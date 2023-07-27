@@ -1,0 +1,69 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+/* Sayfanın tam ortasına yerleştirilecek ana container */
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Sayfanın tamamını kaplaması için 100 viewport height ayarlıyoruz */
+  background-color: #5d5b5b; /* Sayfa arka plan rengi */
+}
+/* Başlık bölümünün stil tanımları */
+.header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #fff; /* Başlık metin rengi */
+  text-align: center;
+}
+/* Alıntı bölümünün stil tanımları */
+.quote {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #e5a1a1; /* Alıntıların bulunduğu container arka plan rengi */
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Hafif bir gölgelendirme ekleyelim */
+}
+/* Alıntı metni stil tanımları */
+.quote h2 {
+  font-size: 18px;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+/* Alıntı yazarı stil tanımları */
+.quote h4 {
+  font-size: 12px;
+  font-weight: bold;
+  text-align: right;
+  text-decoration: underline;
+}
+.btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* Alıntıları getiren butonun stil tanımları */
+button {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff; /* Mavi renkte bir buton */
+  color: #fff; /* Buton metin rengi */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3; /* Butona hover edildiğinde daha koyu bir mavi renk */
+}
