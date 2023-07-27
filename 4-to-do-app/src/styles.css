@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+/* Sayfa arka planı ve container arka planı */
+body {
+  background-color: #a18888; /* Arkaplan rengi */
+  display: flex;
+  justify-content: center; /* Sayfayı yatayda ortalar */
+  align-items: center; /* Sayfayı dikeyde ortalar */
+  height: 100vh; /* Sayfa yüksekliğini görüntüleme alanının tamamına ayarlar */
+  margin: 0;
+}
+.container {
+  background-color: #d86a6a; /* Container arka plan rengi */
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Hafif bir gölge efekti */
+  border-radius: 8px; /* Köşeleri yuvarlatılmış kenarlar */
+}
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.sub-header {
+  display: flex;
+  align-items: center;
+}
+input {
+  flex: 1; /* Giriş kutusunun tüm genişlikte büyümesini sağlar */
+  padding: 8px 12px;
+  border: 1px solid #ccc; /* Hafif bir çerçeve çizgisi */
+  border-radius: 4px; /* Giriş kutusunun köşelerini yuvarlatır */
+}
+button {
+  margin-left: 10px;
+  padding: 8px 12px;
+  background-color: #007bff; /* Düğme arka plan rengi */
+  color: #fff; /* Düğme metin rengi */
+  border: none;
+  border-radius: 4px; /* Düğme köşelerini yuvarlatır */
+  cursor: pointer;
+}
+button:hover {
+  background-color: #0056b3; /* Düğmeye fare üzerine gelindiğinde yeni arka plan rengi */
+}
+.todo-container {
+  margin-top: 20px;
+}
+.todo-list {
+  list-style: none;
+  padding: 0;
+}
+.todo-list li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+.todo-list li button {
+  margin-left: 10px;
+  padding: 4px 8px;
+  background-color: #dc3545; /* Silme düğmesi arka plan rengi */
+  color: #fff; /* Silme düğmesi metin rengi */
+  border: none;
+  border-radius: 4px; /* Silme düğmesi köşelerini yuvarlatır */
+  cursor: pointer;
+}
+.todo-list li button:hover {
+  background-color: #c82333; /* Silme düğmesine fare üzerine gelindiğinde yeni arka plan rengi */
+}
