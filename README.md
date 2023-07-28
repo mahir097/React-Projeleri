@@ -11,4 +11,4 @@
 [9-FAQ APP](https://codesandbox.io/s/faq-app-g5yswy?file=/src/App.js)<br/>
 [10-Random Color Generator](https://codesandbox.io/s/random-color-generator-phgsxl?file=/src/App.js)<br/>
 [11-Random Profile Generator](https://codesandbox.io/s/random-profile-generator-qzx2sk?file=/src/App.js) <br/>
-
+[12-Pagination App](https://codesandbox.io/s/pagination-app-q4dsj6?file=/src/App.js)<br/>
