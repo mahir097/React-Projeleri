@@ -7,4 +7,5 @@
 [5-Quote Generator](https://codesandbox.io/s/quote-generator-s8f26w?file=/src/App.js)<br/>
 [6-Card App](https://codesandbox.io/s/card-app-r6tskh?file=/src/App.js) <br/>
 [7-Search Filter](https://codesandbox.io/s/search-filter-2fxfry?file=/src/App.js)<br/>
-[8-Self Reliance App](https://codesandbox.io/s/self-reliance-app-dn3dt5?file=/src/App.js)
+[8-Self Reliance App](https://codesandbox.io/s/self-reliance-app-dn3dt5?file=/src/App.js)<br/>
+[9-FAQ APP](https://codesandbox.io/s/faq-app-g5yswy?file=/src/App.js)
