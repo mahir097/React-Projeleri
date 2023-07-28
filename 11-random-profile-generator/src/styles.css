@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #873d3d;
+}
+.App h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.card {
+  width: 400px;
+  height: 400px;
+  background: #d2c5c5;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+.name {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.email {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+.phone {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  background: #873d3d;
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+}
