@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+/* App.css */
+
+/* .App sınıfı tüm uygulamanın ana bileşenini temsil eder */
+body {
+  background-color: rgb(132, 151, 171);
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Başlık için stil */
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* .meal-container sınıfı yemek kartlarını içeren bölümü temsil eder */
+.meal-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+/* .card sınıfı her yemek kartını temsil eder */
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  width: 250px;
+  background: white;
+  text-align: center;
+}
+
+/* .card içindeki resimleri düzenler */
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* .card içindeki yemek başlıklarını düzenler */
+.card h1 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+/* .btn-container sınıfı düğmelerin bulunduğu bölümü temsil eder */
+.btn-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+/* .btn-less sınıfı "Daha Az" düğmesini temsil eder */
+.btn-less,
+.btn-more {
+  cursor: pointer;
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+/* .btn-more sınıfı "Daha Fazla" düğmesini temsil eder */
+.btn-more {
+  background-color: #28a745;
+}
