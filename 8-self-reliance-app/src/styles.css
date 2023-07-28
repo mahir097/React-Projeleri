@@ -1,0 +1,97 @@
+/* App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0; /* Sayfa arka plan rengi */
+}
+
+.app-container {
+  border: 1px solid #ccc; /* App bileşenine sınır çizgisi */
+  padding: 20px;
+  background-color: #fff; /* App bileşen arka plan rengi */
+  width: 500px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 20px;
+  color: rgb(128, 136, 161);
+  text-decoration: underline;
+}
+
+.score {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.result-container {
+  text-align: center;
+}
+
+.question-container {
+  text-align: center;
+}
+.question {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  width: fit-content;
+  padding: 5px 10px;
+  color: #0056b3;
+}
+.options-list {
+  list-style-type: none;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+.option-item {
+  cursor: pointer;
+  padding: 10px 20px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.option-item:hover {
+  background-color: #f0f0f0;
+}
+
+.result-title {
+  margin-top: 0;
+}
+
+.result-text {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #7700b3;
+}
+
+.result-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.result-button:hover {
+  background-color: #0056b3;
+}
