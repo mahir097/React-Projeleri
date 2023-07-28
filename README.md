@@ -8,6 +8,6 @@
 [6-Card App](https://codesandbox.io/s/card-app-r6tskh?file=/src/App.js){:target="_blank"} <br/>
 [7-Search Filter](https://codesandbox.io/s/search-filter-2fxfry?file=/src/App.js){:target="_blank"}<br/>
 [8-Self Reliance App](https://codesandbox.io/s/self-reliance-app-dn3dt5?file=/src/App.js){:target="_blank"}<br/>
-[9-FAQ APP](https://codesandbox.io/s/faq-app-g5yswy?file=/src/App.js){:target="_blank"}<br/>
-<a href="https://codesandbox.io/s/random-color-generator-phgsxl?file=/src/App.js" target="_blank">10-Random Color Generator</a>
+[9-FAQ APP](https://codesandbox.io/s/faq-app-g5yswy?file=/src/App.js){:target="_blank" rel="noopener}<br/>
+
 
