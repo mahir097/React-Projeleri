@@ -1,0 +1,67 @@
+/* App.css */
+
+/* Global stil */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+  display: flex; /* Ekran boyutu ne olursa olsun içerikleri yatayda hizalamak için */
+  justify-content: center; /* İçerikleri yatayda ortalamak için */
+  align-items: center; /* İçerikleri dikeyde ortalamak için */
+  min-height: 100vh; /* Sayfayı minimum pencere yüksekliği boyunca genişletmek için */
+}
+
+.app-container {
+  width: 400px; /* Sayfa genişliğinin yüzde 80'i kadar bir alan kaplasın */
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.app-heading {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333333;
+}
+
+/* Soru stil */
+.question-container {
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.single-question {
+  padding: 20px;
+  cursor: pointer;
+  border-bottom: 1px solid #ccc;
+  display: flex; /* İçerikleri yatayda hizalamak için */
+  justify-content: space-between; /* İçerikleri yatayda aralarında boşluk bırakarak hizalamak için */
+  align-items: center; /* İçerikleri dikeyde ortalamak için */
+  flex-wrap: wrap; /* İçerikler sığmazsa alt satıra geçsin */
+}
+
+.question-title {
+  display: flex;
+  flex: 1;
+  font-size: 1.5rem; /* Başlık yazısını büyütelim */
+  font-weight: bold;
+  margin: 0;
+  color: #005a9e;
+  margin-right: 10px; /* Soru başlığı ile düğme arasında boşluk bırakmak için */
+}
+
+.question-info {
+  margin-top: 10px;
+  color: #666666;
+  width: 100%; /* İnfo alanının yüzde 100 genişliğinde olmasını sağlayalım */
+}
+
+.question-btn {
+  font-size: 1.5rem; /* Düğme yazısını büyütelim */
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: #005a9e;
+}
