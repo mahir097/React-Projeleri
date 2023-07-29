@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: #dfdbe5;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='40' viewBox='0 0 50 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.46'%3E%3Cpath d='M40 10L36.67 0h-2.11l3.33 10H20l-2.28 6.84L12.11 0H10l6.67 20H10l-2.28 6.84L2.11 10 5.44 0h-2.1L0 10l6.67 20-3.34 10h2.11l2.28-6.84L10 40h20l2.28-6.84L34.56 40h2.1l-3.33-10H40l2.28-6.84L47.89 40H50l-6.67-20L50 0h-2.1l-5.62 16.84L40 10zm1.23 10l-2.28-6.84L34 28h4.56l2.67-8zm-10.67 8l-2-6h-9.12l2 6h9.12zm-12.84-4.84L12.77 38h15.79l2.67-8H20l-2.28-6.84zM18.77 20H30l2.28 6.84L37.23 12H21.44l-2.67 8zm-7.33 2H16l-4.95 14.84L8.77 30l2.67-8z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+.navbar {
+  width: 100%;
+  height: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul {
+  width: 100%;
+  height: 4em;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4em;
+}
+
+li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2em;
+  padding: 0.5em 1em;
+  background-color: #4f709c;
+  border-radius: 0.5em;
+  transition: 0.5s ease-in-out;
+}
+a:hover {
+  background-color: #d8c4b6;
+  color: #000;
+}
+
+.main {
+  width: 100%;
+  height: calc(100vh - 11em);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 250px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 5em;
+  background: #d8c4b6;
+  font-size: 1.5em;
+  border-radius: 0.5em;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.content,
+.title {
+  background: #4f709c;
+  padding: 5px 10px;
+  border-radius: 0.5em;
+  color: #fff;
+  font-size: 1.2em;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.footer {
+  width: 100%;
+  height: 5em;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  background: #4f709c;
+  color: #fff;
+  font-size: 1.2em;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.social {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  font-size: 1em;
+}
+.icons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  font-size: 1em;
+}
+.social-icons {
+  text-decoration: none;
+  cursor: pointer;
+  color: #fff;
+  transition: 0.5s ease-in-out;
+  font-size: larger;
+}
+.copy {
+  font-size: small;
+}
