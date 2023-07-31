@@ -17,5 +17,5 @@
 [15-Hamburger Menu](https://codesandbox.io/s/hamburger-menu-c58g3m?file=/src/App.js)<br/>
 [16-Website](https://comforting-hotteok-2c7f2f.netlify.app/)<br/>
 [17-Tour Site](https://elaborate-manatee-db0f05.netlify.app/)<br/>
-[18-Star App](https://codesandbox.io/s/585n5s?file=/src/App.js)
+[18-Star App](https://codesandbox.io/s/585n5s)
 
