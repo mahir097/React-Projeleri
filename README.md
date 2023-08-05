@@ -16,8 +16,8 @@
 |[13-Clock App](https://codesandbox.io/s/timer-app-374xnf?file=/src/App.js)|[Clock App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/e95e1516-83d8-4c05-9550-c219825569e4)|
 |[14-Meme Generator](https://codesandbox.io/s/meme-generator-mn693v?file=/src/App.js)|[Meme Generator Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/c69f1d1c-8acc-4b32-aad4-96aa6eebda13)|
 |[15-Hamburger Menu](https://codesandbox.io/s/hamburger-menu-c58g3m?file=/src/App.js)|[Hamburger Menu Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/51fc59d8-ec89-4025-ac3d-66928914a75a)|
-|[16-Website](https://comforting-hotteok-2c7f2f.netlify.app/)|[WebsiteCode Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/c582fbf2-3b18-4bfd-a25b-ca280b42b773)|
-|[17-Tour Site](https://elaborate-manatee-db0f05.netlify.app/)|[Tour Site Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/5d451d64-832e-4bbb-8cb9-7a7f9a3473f1)|
+|[16-Website](https://comforting-hotteok-2c7f2f.netlify.app/)|[Website Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/c582fbf2-3b18-4bfd-a25b-ca280b42b773)|
+|[17-Tour Site](https://elaborate-manatee-db0f05.netlify.app/)|[Tour Site Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/7b89dd36-4672-47ba-9aa9-993726e90b08)|
 |[18-Birthday App](https://codesandbox.io/s/birthday-app-k7twc7?file=/src/App.js)|[Birthday App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/66fbbe9c-29b6-4a14-810a-18114b35476b)|
 
 
