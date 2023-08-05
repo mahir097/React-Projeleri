@@ -10,7 +10,6 @@
 |[7-Search Filter](https://codesandbox.io/s/search-filter-2fxfry?file=/src/App.js)|[Search Filter Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/53d609f9-275c-413f-823c-6e57eabde272)|
 |[8-Self Reliance App](https://codesandbox.io/s/self-reliance-app-dn3dt5?file=/src/App.js)| [Self Reliance App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/4abf4fd1-0216-491a-8fae-c88d13dbd288)| 
 [9-FAQ APP](https://codesandbox.io/s/faq-app-g5yswy?file=/src/App.js)|[FAQ App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/1dcd0e3c-545b-4a5a-96f5-167d921fad41)|
-
 |[10-Random Color Generator](https://codesandbox.io/s/random-color-generator-phgsxl?file=/src/App.js)|[Random Color Generator Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/307d2461-c49b-4255-9191-1a2d83c84df2)|
 
 [11-Random Profile Generator](https://codesandbox.io/s/random-profile-generator-qzx2sk?file=/src/App.js) <br/>
