@@ -1,4 +1,4 @@
-# React-Projeleri
+![5-Quote Generator](https://github.com/mahir097/React-Projeleri/assets/99602660/271842ba-44fb-4b11-90f3-265eaa06d643)# React-Projeleri
 
 [1-Customer App](https://github.com/mahir097/React-Projeleri/assets/99602660/e01ea782-6253-4e15-8ca8-8eb18f567ae3)<br/>
 [Customer App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/ef42d602-01cf-4e83-a159-3ff7322b3870)<br/>
@@ -7,8 +7,9 @@
 [3-Image Gallery](https://codesandbox.io/s/image-gallery-vw6dn2?file=/src/App.js)<br/>
 [Image Gallery Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/b044fbce-c902-4bf2-9aa1-dc0029a93804)<br/>
 [4-To Do App](https://codesandbox.io/s/to-do-app-x6v3p4?file=/src/App.js) <br/>
-[To Do App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/5514cdb8-1da0-4875-8293-a8aac0345511)
+[To Do App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/5514cdb8-1da0-4875-8293-a8aac0345511)<br/>
 [5-Quote Generator](https://codesandbox.io/s/quote-generator-s8f26w?file=/src/App.js)<br/>
+[Quote GeneratorCode Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/8ea594bc-dcdb-46e4-a5a2-95b82c3394ee)<br/>
 [6-Card App](https://codesandbox.io/s/card-app-r6tskh?file=/src/App.js)<br/>
 [7-Search Filter](https://codesandbox.io/s/search-filter-2fxfry?file=/src/App.js)<br/>
 [8-Self Reliance App](https://codesandbox.io/s/self-reliance-app-dn3dt5?file=/src/App.js)<br/>
