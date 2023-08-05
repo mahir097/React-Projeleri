@@ -10,6 +10,7 @@
 [5-Quote Generator](https://codesandbox.io/s/quote-generator-s8f26w?file=/src/App.js)<br/>
 [Quote GeneratorCode Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/8ea594bc-dcdb-46e4-a5a2-95b82c3394ee)<br/>
 [6-Card App](https://codesandbox.io/s/card-app-r6tskh?file=/src/App.js)<br/>
+[Card App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/9d7b9c0d-f3af-4d9c-9b80-36ee2f83017e)<br/>
 [7-Search Filter](https://codesandbox.io/s/search-filter-2fxfry?file=/src/App.js)<br/>
 [8-Self Reliance App](https://codesandbox.io/s/self-reliance-app-dn3dt5?file=/src/App.js)<br/>
 [9-FAQ APP](https://codesandbox.io/s/faq-app-g5yswy?file=/src/App.js)<br/>
