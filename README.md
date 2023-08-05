@@ -9,8 +9,9 @@
 |[6-Card App ](https://codesandbox.io/s/card-app-r6tskh?file=/src/App.js) |[Card App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/9d7b9c0d-f3af-4d9c-9b80-36ee2f83017e) |
 |[7-Search Filter](https://codesandbox.io/s/search-filter-2fxfry?file=/src/App.js)|[Search Filter Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/53d609f9-275c-413f-823c-6e57eabde272)|
 |[8-Self Reliance App](https://codesandbox.io/s/self-reliance-app-dn3dt5?file=/src/App.js)| [Self Reliance App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/4abf4fd1-0216-491a-8fae-c88d13dbd288)|
+|[9-FAQ APP](https://codesandbox.io/s/faq-app-g5yswy?file=/src/App.js)|
+[FAQ App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/1dcd0e3c-545b-4a5a-96f5-167d921fad41)|
 
-[9-FAQ APP](https://codesandbox.io/s/faq-app-g5yswy?file=/src/App.js)<br/>
 [10-Random Color Generator](https://codesandbox.io/s/random-color-generator-phgsxl?file=/src/App.js)<br/>
 [11-Random Profile Generator](https://codesandbox.io/s/random-profile-generator-qzx2sk?file=/src/App.js) <br/>
 [12-Pagination App](https://codesandbox.io/s/pagination-app-q4dsj6?file=/src/App.js)<br/>
