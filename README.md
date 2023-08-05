@@ -1,5 +1,4 @@
-![5-Quote Generator](https://github.com/mahir097/React-Projeleri/assets/99602660/271842ba-44fb-4b11-90f3-265eaa06d643)# React-Projeleri
-
+## React Projects 
 [1-Customer App](https://github.com/mahir097/React-Projeleri/assets/99602660/e01ea782-6253-4e15-8ca8-8eb18f567ae3)<br/>
 [Customer App Code Overview](https://github.com/mahir097/React-Projeleri/assets/99602660/ef42d602-01cf-4e83-a159-3ff7322b3870)<br/>
 [2-Random Number](https://codesandbox.io/s/random-number-56nczs?file=/src/App.js)<br/>
