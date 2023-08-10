@@ -1,0 +1,45 @@
+body {
+  background-color: #282c34;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+.App {
+  text-align: center;
+}
+input {
+  background-color: #282c34;
+  color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+.movieList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.movieList img {
+  height: 175px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+}
+h1 {
+  text-align: center;
+}
+.favourites {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.favourites img {
+  height: 175px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+}
